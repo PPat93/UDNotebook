@@ -1,0 +1,17 @@
+#search-input{
+    margin-left: auto;
+    width: 300px;
+    font-size: medium;
+}
+
+#title{
+    padding-left: 1em;
+}
+
+#search-input input::placeholder{
+    color: gray;
+}
+mat-toolbar{
+    height:5rem;
+}
+
